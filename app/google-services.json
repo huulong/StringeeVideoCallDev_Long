@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "231736941770",
+    "project_id": "callvideo-28b19",
+    "storage_bucket": "callvideo-28b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231736941770:android:ac2842df590a27d4a92833",
+        "android_client_info": {
+          "package_name": "com.example.stringeevideocallsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231736941770-bh0b7895cb6mpqf7cdadvmb2dp89ath4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stringeevideocallsample",
+            "certificate_hash": "34a5adba8efee9eca2de1ef3c35a74be289f9af4"
+          }
+        },
+        {
+          "client_id": "231736941770-krt9j2qdkh2bea90o786cmu30t9ifgjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTawhP18TOBhYTdo-Aht0F_yzjwrpVbqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231736941770-krt9j2qdkh2bea90o786cmu30t9ifgjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
